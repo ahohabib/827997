@@ -1,11 +1,3 @@
----
-permalink: /
-title: "Portfolios"
-author_profile: true
-redirect_from: 
-  - /portfolios/
-  - /portfolios.html
----
 <html lang="en">
 <head>
   <meta charset="UTF-8">
